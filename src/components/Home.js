@@ -2,7 +2,7 @@ import React from 'react'
 import "./Home.css"
 const Home = () => {
   return (
-    <div className='background'>
+    <div className='wrapper'>
         <div className=' w-10/12 mb-12 flex flex-col gap-6 mx-auto pt-10 md:my-2'>
           <div className="text-yellow-400 text-3xl font-bold">Entry Pass</div>
           <div className='text-white flex flex-col justify-center gap-5 items-center mx-auto'>
